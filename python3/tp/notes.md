@@ -4,5 +4,5 @@
     Upto intro to list 
     NEXT: Python List
     URL_NEXT: https://www.tutorialspoint.com/python3/python_variable_types.htm
-    URL_LATS: URL_NEXT
+    URL_LAST: URL_NEXT
 
