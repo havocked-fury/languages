@@ -13,3 +13,5 @@
 3.  Status: 01:40 AM, 6 May 2020
     Schemed through list, tuple dictionary. There could be just one page about sequences that would do the job
     NEXT_URL: https://www.tutorialspoint.com/python3/python_date_time.htm
+4.  Status: 9:14 PM, 9 May 2020
+    Schemed through the file section. Learned to read oop code of python. This should be enough for now as the goal was to just read python.
